@@ -21,25 +21,25 @@ https://dbms-project-csq9.onrender.com
 
 ## Features
 
--   User-friendly web interface\
--   Database integration for storing and retrieving data\
--   CRUD operations (Create, Read, Update, Delete)\
--   Structured schema design using DBMS concepts\
+-   User-friendly web interface
+-   Database integration for storing and retrieving data
+-   CRUD operations (Create, Read, Update, Delete)
+-   Structured schema design using DBMS concepts
 -   Real-time interaction with backend
 
 
 ## Technologies Used
 
--   Frontend: HTML, CSS, JavaScript\
--   Backend: Flask \
--   Database: SQLite / SQLAlchemy\
+-   Frontend: HTML, CSS, JavaScript
+-   Backend: Flask 
+-   Database: SQLite / SQLAlchemy
 -   Hosting: Render
 
 
 ## Database Design
 
--   Tables are designed based on the project requirements\
--   Relationships between entities are maintained using keys\
+-   Tables are designed based on the project requirements
+-   Relationships between entities are maintained using keys
 -   Normalization techniques are applied to reduce redundancy
 
 
@@ -59,24 +59,18 @@ https://dbms-project-csq9.onrender.com
 
 ## Project Structure
 
-dbms_project/\
-│── templates/\
-│── static/\
-│── app.py\
-│── database.sql\
+dbms_project/
+│── templates/
+│── static/
+│── app.py
+│── database.sql
 │── README.md
 
 
 ## Key Concepts Used
 
--   Relational Database Design\
--   SQL Queries\
--   Normalization\
--   Primary and Foreign Keys\
+-   Relational Database Design
+-   SQL Queries
+-   Normalization
+-   Primary and Foreign Keys
 -   Data Integrity
-
-
-## Note
-
-This project was developed for academic purposes as part of DBMS
-coursework.
