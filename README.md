@@ -74,3 +74,9 @@ dbms_project/
 -   Normalization
 -   Primary and Foreign Keys
 -   Data Integrity
+
+
+## Note
+
+This project was developed for academic purposes as part of DBMS
+coursework.
